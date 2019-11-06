@@ -3,7 +3,7 @@ second line
 this is third line
 1. Create an account in GitHub.
 
-2. Create a repository, give a name to it and then thick the ìinitialize this repository with a Readmeî.
+2. Create a repository, give a name to it and then thick the ‚Äúinitialize this repository with a Readme‚Äù.
 
 3. Create repository.
 
@@ -18,3 +18,4 @@ this is third line
 8. You can create new files and edit it. After editing, you have to commit changes and then push command and changes will be saved in your remote repository.
 
 9. To get newly added files or changes in remote repository, you can click on tortoise git and then pull.
+done done

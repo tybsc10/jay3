@@ -1,3 +1,20 @@
 first line
 second line
 this is third line
+1. Create an account in GitHub.
+
+2. Create a repository, give a name to it and then thick the “initialize this repository with a Readme”.
+
+3. Create repository.
+
+4. Create new file and edit it and then commit changes.
+
+5. Click on clone or download and copy link.
+
+6. On your desktop create a folder and click on Git Clone.
+
+7. Paste the link and then all your files will be cloned.
+
+8. You can create new files and edit it. After editing, you have to commit changes and then push command and changes will be saved in your remote repository.
+
+9. To get newly added files or changes in remote repository, you can click on tortoise git and then pull.
